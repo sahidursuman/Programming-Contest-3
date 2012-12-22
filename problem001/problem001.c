@@ -11,5 +11,6 @@ int main(void){
 	
 	printf("answer :%d\n",ans);//答えを入力
 	
+	//SublimeText2にプッシュのテスト
 	return 0;
 }
