@@ -9,7 +9,7 @@ int main(void){
 			ans += loop_i;//もしloop_iが3か5の倍数なら、ansに足す
 	}
 	
-	printf("answer :%d\n",as);//答えを入力
+	printf("answer :%d\n",ans);//答えを入力
 	
 	//SublimeText2からプッシュのテスト
 	return 0;
